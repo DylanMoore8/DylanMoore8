@@ -2,17 +2,17 @@
   I am an ammature developer currently in school studying computer engineering. 
 
 - 👀 I’m interested in ...
-  - Full-Stack Development
-  - Python
-  - JavaScript
-  - C
-  - Arduino Projects
-  - Web Development
-  - Game Development
+  Full-Stack Development,
+  Python,
+  JavaScript,
+  C,
+  Arduino Projects,
+  Web Development,
+  Game Development
  
 - 🌱 I’m currently learning ...
-  HTML, CCS, and JavaScript for web development
-  Python Skills
+  HTML, CCS, and JavaScript for web development,
+  Python Skills,
   Applications of C for Arduino
 
 - 💞️ I’m looking to collaborate on ...
