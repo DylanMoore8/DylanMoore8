@@ -1,7 +1,7 @@
 Hello, I’m @DylanMoore8
   I am an ammature developer currently in school studying computer engineering. 
 
-- 👀 I’m interested in ...
+- I’m interested in ...
   Backend Development,
   Python,
   C,
